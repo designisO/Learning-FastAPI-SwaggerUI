@@ -6,13 +6,13 @@ The API is focused around building a database of users who are admins and studen
 
 
 
-## Installing FastAPI
+### Installing FastAPI
 pip install fastapi
 pip install uvicorn
 
 
 
-# Using FastAPI
+### Using FastAPI
 In the terminal type the following: uvicorn main:app --reload
 (This allows fast reload of any changes made to the API)
 
